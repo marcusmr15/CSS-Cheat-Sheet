@@ -1,0 +1,21 @@
+header {
+    padding: 60px;
+    text-align: center;
+    background: #333940;
+    color: #e867ed;
+  }
+
+#headerTitle {
+    color: #e867ed;
+}
+
+#headerText {
+    color: white;
+}
+
+footer {
+    background-color: #333940;
+    padding: 20px;
+    text-align: center;
+    color: #e867ed;
+  }
