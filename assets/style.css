@@ -1,6 +1,9 @@
 header {
   padding: 30px;
   text-align: center;
+}
+
+body {
   background: #333940;
 }
 
@@ -15,18 +18,25 @@ header {
   /* border: 1px dashed;
   word-break: break-all;
   white-space: pre-wrap; */
+  
   line-height: 1.5;
   text-indent: 50px;
 }
 
 .textColor {
   color: #e867ed;
+  border: 1px dashed;
 }
 
 .footer {
-  background-color: #333940;
   padding: 20px;
   text-align: center;
   color: #e867ed;
   font-weight: bold;
+}
+
+.margin-box {
+  margin: 20px;
+  padding: 10px;
+  background-color: yellow;
 }
